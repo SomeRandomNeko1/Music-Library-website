@@ -1,20 +1,21 @@
 <?php
-$titles = [];
-$artists = [];
+$titles = ["Hosselen",""];
+$artists = ["Boef",""];
 $genres = ["Rap", "Hip Hop", ];
 
 $imageURLs = [
-    "img/proud.jpg",
+    "img/Boef-HOSSELEN.webp"
+
 
 ];
 
 $durations = [
-    "1:50",
+    "3:34",
 
 ];
 
 $releaseYears = [
-    "2022",
+    "2016",
 
 ];
 
